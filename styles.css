@@ -1,17 +1,24 @@
 * {
-  margin:1px;
-  padding:1px;
+
+  margin:4px;
+  padding:0px;
+  background-color: aquamarine;
+
 }
 
 #octocat {
   display: block;
-  width:384px;
+  width: 300px;
   margin: 50px auto;
 }
 
 p {
-  display: flexbox;
-  width: 500px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+
+
+  display: flex;
+  width: 400px;
+  margin: 100px auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+
 }
