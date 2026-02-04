@@ -1,7 +1,9 @@
 * {
+
   margin:4px;
   padding:0px;
   background-color: aquamarine;
+
 }
 
 #octocat {
@@ -11,9 +13,12 @@
 }
 
 p {
+
+
   display: flex;
   width: 400px;
   margin: 100px auto;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: large;
+
 }
